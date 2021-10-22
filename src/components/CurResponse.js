@@ -56,7 +56,7 @@ export class CurResponse extends Component {
               className="form-control"
               type="text"
               style={{ width: "300px", margin: "auto" }}
-              placeholder="Order Number"
+              // placeholder="Order Number"
               aria-label="default input example"
               value={this.state.ord_num}
               onChange={this.ordNumChange}
